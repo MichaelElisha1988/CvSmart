@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.profPIc{
+    border-radius: 50%;
+    margin-right: 1em;
+}
+.boldtxt{
+    font-weight: 600;
+}
+
+.social-menu{
+    display: flex;
+    list-style: none;
+}
+.social-item{
+    margin: 20px;
+}
+
+.bd-placeholder-img1{
+    background-image: url('../resorce/proj/teskmanage.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 2em;
+}
+.bd-placeholder-img2{
+    background-image: url('../resorce/proj/filemanage.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 2em;
+}
+.bd-placeholder-img3{
+    background-image: url('../resorce/c-sharp-c-logo-02F17714BA-seeklogo.com.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 2em;
+}
+/* .bd-placeholder-img4{
+    background-image: url('../');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 2em;
+} */
+/* fill="./resorce/proj/filemanage.png" */
