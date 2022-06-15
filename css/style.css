@@ -4,6 +4,9 @@
     justify-content: center;
     text-align: center;
 }
+body{
+    overflow: hidden;
+}
 
 
 .profPIc{
