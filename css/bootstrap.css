@@ -4072,11 +4072,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-bottom: 20px;
   border: 1px solid transparent;
 }
-@media (min-width: 768px) {
-  .navbar {
-    border-radius: 100px;
-  }
-}
+
 @media (min-width: 768px) {
   .navbar-header {
     float: left;
@@ -4856,7 +4852,6 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  /* margin-top: 100px; */
   padding: 30px 15px;
   margin-bottom: 30px;
   color: inherit;
